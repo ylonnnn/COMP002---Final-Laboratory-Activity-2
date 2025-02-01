@@ -1,3 +1,3 @@
-# COMP002 - Final Laboratory Activity #3
+# COMP002 - Final Laboratory Activity #2
 
-Final Laboratory Activiy #3
+Final Laboratory Activiy #2
